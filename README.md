@@ -2,10 +2,8 @@
 
 I’m a self-taught programmer and IT enthusiast.  
 
-### 🔭 Current Projects
-- [Falchus.com](https://falchus.com) – my main project.
-- Exploring advanced computer and networking concepts.
-- Focusing on backend systems and software architecture.
+### 🔭 Projects
+- [Falchus.com](https://falchus.com) – main project.
 
 ### 🌱 Skills & Tech Stack
 - **Languages**: Java, JavaScript, HTML, CSS, PHP
