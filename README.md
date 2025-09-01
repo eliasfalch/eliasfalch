@@ -4,6 +4,7 @@ I’m a self-taught programmer and IT enthusiast.
 
 ### 🔭 Projects
 - **[Falchus.com](https://falchus.com)**
+  - [FalchusSpigot](https://github.com/Falchus/FalchusSpigot)
 
 ### 🌱 Skills & Tech Stack
 - **Languages**: Java, JavaScript, HTML, CSS, PHP
