@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 I’m a self-taught programmer and IT enthusiast.  
 
