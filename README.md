@@ -3,7 +3,7 @@
 I’m a self-taught programmer and IT enthusiast.  
 
 ### 🔭 Projects
-- [Falchus.com](https://falchus.com) - main project.
+- **[Falchus.com](https://falchus.com)**
 
 ### 🌱 Skills & Tech Stack
 - **Languages**: Java, JavaScript, HTML, CSS, PHP
