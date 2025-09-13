@@ -14,4 +14,4 @@ I’m a self-taught programmer and IT enthusiast.
 
 ### ⚡ Fun Facts / Interests
 - Motorsport fan, especially F1 and karting.
-- Self-taught in IT and English from age 5–6.
+- Self-taught in IT and English from age 4-5.
